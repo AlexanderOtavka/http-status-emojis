@@ -1,0 +1,22 @@
+declare const _default: {
+    100: string;
+    200: string;
+    201: string;
+    202: string;
+    204: string;
+    301: string;
+    302: string;
+    304: string;
+    400: string;
+    401: string;
+    403: string;
+    404: string;
+    405: string;
+    409: string;
+    410: string;
+    500: string;
+    502: string;
+    503: string;
+    504: string;
+};
+export = _default;
